@@ -6,6 +6,7 @@ Advanced Persistent Threats (APTs) are highly sophisticated, often state-sponsor
 Understanding and identifying APT behavior is a key responsibility of Cyber Threat Intelligence (CTI) analysts. This requires in-depth knowledge of API tactics, techniques and procedures (TTPs), as well as the ability to analyze malicious payloads and attribute them to known threat actors.
 
 This project involves multiple stages:
+
 **1. Gathering Information:**
 Research and analyze specific API groups. Study and collect their origins, motivations, targets and attack campaigns
 
