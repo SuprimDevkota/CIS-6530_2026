@@ -1,4 +1,4 @@
-This repository contains our group project as a part of Cyber Threat Intelligence and Adversarial Risk Analysis course (Master of Cybersecurity and Threat Intelligence program), which focuses on understanding, analyzing and detecting API activities using Cyber Threat Intelligence (CTI) and Artificial Intelligence (AI).
+This repository contains our group project as a part of Cyber Threat Intelligence and Adversarial Risk Analysis course - CIS*6530 (Master of Cybersecurity and Threat Intelligence program), which focuses on understanding, analyzing and detecting API activities using Cyber Threat Intelligence (CTI) and Artificial Intelligence (AI).
 
 ## Introduction
 Advanced Persistent Threats (APTs) are highly sophisticated, often state-sponsored cyber adversaries that target critical infrastructures to achieve long-term strategic objectives. APTs operate stealthy over the extended periods, using well planned tactics to remain undetected, making them a major concern in modern cybersecurity. 
