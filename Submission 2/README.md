@@ -27,7 +27,7 @@ If interaction with samples is required:
 ## Repository Structure
 ```bash
 .
-├── Executable Malware 1/
+├── Executable Malware 1.zip/
 │   ├── APT_Group_1/
 │   │   ├── sample_1
 │   │   └── sample_2
@@ -35,7 +35,7 @@ If interaction with samples is required:
 │   │   └── sample_1
 │   └── ...
 │
-├── Executable Malware 2/
+├── Executable Malware 2.zip/
 │   ├── APT_Group_1/
 │   │   ├── sample_1
 │   │   └── sample_2
@@ -43,7 +43,7 @@ If interaction with samples is required:
 │   │   └── sample_1
 │   └── ...
 │
-├── Executable Malware 3/
+├── Executable Malware 3.zip/
 │   ├── APT_Group_1/
 │   │   ├── sample_1
 │   │   └── sample_2
@@ -51,7 +51,7 @@ If interaction with samples is required:
 │   │   └── sample_1
 │   └── ...
 │
-├── Executable Malware 4/
+├── Executable Malware 4.zip/
 │   ├── APT_Group_1/
 │   │   ├── sample_1
 │   │   └── sample_2
@@ -59,7 +59,7 @@ If interaction with samples is required:
 │   │   └── sample_1
 │   └── ...
 │
-├── Other Payloads/
+├── Other Payloads.zip/
 │   ├── APT_Group_1/
 │   │   └── payload_1
 │   ├── APT_Group_3/
@@ -74,15 +74,15 @@ If interaction with samples is required:
 
 ## Directory and File Descriptions
 
-- `Executable Malware 1/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0062 TA459** to **G0012 Darkhotel**. Every APT group has their own sub-directory which contains the actual samples.
+- `Executable Malware 1.zip/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0062 TA459** to **G0012 Darkhotel**. Every APT group has their own sub-directory which contains the actual samples.
 
-- `Executable Malware 2/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0126 Higaisa** to **G0020 Equation**. Every APT group has their own sub-directory which contains the actual samples.
+- `Executable Malware 2.zip/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0126 Higaisa** to **G0020 Equation**. Every APT group has their own sub-directory which contains the actual samples.
 
-- `Executable Malware 3/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0041 Strider** to **G0094 Kimsuky**. Every APT group has their own sub-directory which contains the actual samples.
+- `Executable Malware 3.zip/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0041 Strider** to **G0094 Kimsuky**. Every APT group has their own sub-directory which contains the actual samples.
 
-- `Executable Malware 4/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0032 Lazarus Group** and **G0086 Stolen Pencil**. Every APT group has their own sub-directory which contains the actual samples.
+- `Executable Malware 4.zip/`:  Contains executable malware samples (e.g., EXE, DLL) for groups **G0032 Lazarus Group** and **G0086 Stolen Pencil**. Every APT group has their own sub-directory which contains the actual samples.
 
-- `Other Payloads/`: Contains non-executable or secondary payloads, such as scripts and loaders. Every APT group has their own sub-directory which contains the actual samples.
+- `Other Payloads.zip/`: Contains non-executable or secondary payloads, such as scripts and loaders. Every APT group has their own sub-directory which contains the actual samples.
 
 - `Malware_Metadata.xlsx`: An Excel spreadsheet documenting metadata for each malware sample, including APT group, hash, type, source and reasoning behind attribution.
 
