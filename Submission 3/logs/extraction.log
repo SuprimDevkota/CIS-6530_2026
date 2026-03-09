@@ -1,0 +1,751 @@
+2026-03-09 01:16:42,012 - INFO - SUCCESS (instruction count=25339): Desktop/CIS6530/Submission 2/Executable Malware/G0062_TA459/6f7f142089b1d2e48880f59362c7c50e5d193166bdd5e4b27318133e8fe27b2c
+2026-03-09 01:17:15,009 - INFO - SUCCESS (instruction count=54644): Desktop/CIS6530/Submission 2/Executable Malware/G0062_TA459/655e9c1245d077e3ecfedd1687097da8da3ac3b1ab7d07683f4051c6bed18682
+2026-03-09 01:17:27,366 - INFO - SUCCESS (instruction count=815): Desktop/CIS6530/Submission 2/Executable Malware/G0062_TA459/a7cd8b7a5c4d3ab5c02c7e5b4ba964c288ef191443f671e384f889fb74a31970
+2026-03-09 01:18:00,256 - INFO - SUCCESS (instruction count=53277): Desktop/CIS6530/Submission 2/Executable Malware/G0062_TA459/0d219aa54b1d417da61bd4aed5eeb53d6cba91b3287d53186b21fed450248215
+2026-03-09 01:18:00,257 - INFO - ====================================================
+2026-03-09 01:18:00,257 - INFO - APT GROUP SUMMARY: G0062_TA459
+2026-03-09 01:18:00,257 - INFO - ----------------------------------------------------
+2026-03-09 01:18:00,257 - INFO - Total       : 4
+2026-03-09 01:18:00,257 - INFO - Success     : 4
+2026-03-09 01:18:00,257 - INFO - Packed      : 0
+2026-03-09 01:18:00,257 - INFO - Obfuscated  : 0
+2026-03-09 01:18:00,257 - INFO - Failed      : 0
+2026-03-09 01:18:00,257 - INFO - Timeout     : 0
+2026-03-09 01:18:00,257 - INFO - Skipped     : 0
+2026-03-09 01:18:00,257 - INFO - ====================================================
+
+2026-03-09 01:34:45,590 - INFO - SUCCESS (instruction count=684): Desktop/CIS6530/Submission 2/Executable Malware/G0027_Threat Group-3390/b504ab7a4a35e6deb34536d4663db696918961aadc03662b2c34e89b50ba10a1
+2026-03-09 01:34:53,693 - INFO - SUCCESS (instruction count=13381): Desktop/CIS6530/Submission 2/Executable Malware/G0027_Threat Group-3390/d950cc937f4df9ab0bad44513d23ea7ecdfae2b0de8ba351018de5fb5d7b1382
+2026-03-09 01:35:05,973 - INFO - SUCCESS (instruction count=6745): Desktop/CIS6530/Submission 2/Executable Malware/G0027_Threat Group-3390/7ff1a20e8a37162f8a1a7bb00d7f5b9d0993cf7e232aa7e6373014fecd191d4d
+2026-03-09 01:35:28,036 - INFO - SUCCESS (instruction count=7929): Desktop/CIS6530/Submission 2/Executable Malware/G0027_Threat Group-3390/94d6af90cfb0d9ae767eb3f6a41f1ad583a3fb1e2108fdc6de7706a922855fe5
+2026-03-09 01:35:32,945 - INFO - SUCCESS (instruction count=63322): Desktop/CIS6530/Submission 2/Executable Malware/G0027_Threat Group-3390/4fdb0465d2a66e1d810e072b8e205bf7445566a8e9a97c4cd3da0a7b4dc991a4
+2026-03-09 01:35:32,946 - INFO - ====================================================
+2026-03-09 01:35:32,946 - INFO - APT GROUP SUMMARY: G0027_Threat Group-3390
+2026-03-09 01:35:32,946 - INFO - ----------------------------------------------------
+2026-03-09 01:35:32,946 - INFO - Total       : 5
+2026-03-09 01:35:32,946 - INFO - Success     : 5
+2026-03-09 01:35:32,946 - INFO - Packed      : 0
+2026-03-09 01:35:32,946 - INFO - Obfuscated  : 0
+2026-03-09 01:35:32,946 - INFO - Failed      : 0
+2026-03-09 01:35:32,946 - INFO - Timeout     : 0
+2026-03-09 01:35:32,946 - INFO - Skipped     : 0
+2026-03-09 01:35:32,946 - INFO - ====================================================
+
+2026-03-09 01:36:03,546 - INFO - SUCCESS (instruction count=909): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/758b0934b7adddb794951d15a6ddcace1fa523e814aa40b55e2d071cf2df81f0
+2026-03-09 01:37:20,961 - INFO - SUCCESS (instruction count=459100): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/a5a4284f87fd475b9474626040d289ffabba1066fae6c37bd7de9dabaf65e87a
+2026-03-09 01:37:37,798 - INFO - SUCCESS (instruction count=437431): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/6e858c2c9ae20e3149cb0012ab9a24995aa331d2a818b127b2f517bc3aa745a0
+2026-03-09 01:38:12,225 - INFO - SUCCESS (instruction count=71573): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/617f9add4c27f3bb91a32fee007cce01f5a51deaf42e75e6cec3e71afe2ba967
+2026-03-09 01:39:43,148 - INFO - SUCCESS (instruction count=742275): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/899ef7681982941b233e1ea3c1a6d5a4e90153bbb2809f70ee5f6fcece06cabc
+2026-03-09 01:39:43,156 - INFO - ====================================================
+2026-03-09 01:39:43,156 - INFO - APT GROUP SUMMARY: G0044_Winnti Group
+2026-03-09 01:39:43,156 - INFO - ----------------------------------------------------
+2026-03-09 01:39:43,156 - INFO - Total       : 5
+2026-03-09 01:39:43,156 - INFO - Success     : 5
+2026-03-09 01:39:43,156 - INFO - Packed      : 0
+2026-03-09 01:39:43,156 - INFO - Obfuscated  : 0
+2026-03-09 01:39:43,156 - INFO - Failed      : 0
+2026-03-09 01:39:43,156 - INFO - Timeout     : 0
+2026-03-09 01:39:43,156 - INFO - Skipped     : 0
+2026-03-09 01:39:43,156 - INFO - ====================================================
+
+2026-03-09 01:41:10,610 - ERROR - FAILED (Ghidra execution error): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/a5a4284f87fd475b9474626040d289ffabba1066fae6c37bd7de9dabaf65e87a
+2026-03-09 01:41:11,383 - ERROR - FAILED (Ghidra execution error): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/758b0934b7adddb794951d15a6ddcace1fa523e814aa40b55e2d071cf2df81f0
+2026-03-09 01:42:50,780 - INFO - SUCCESS (instruction count=459100): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/a5a4284f87fd475b9474626040d289ffabba1066fae6c37bd7de9dabaf65e87a
+2026-03-09 01:43:00,362 - INFO - SUCCESS (instruction count=909): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/758b0934b7adddb794951d15a6ddcace1fa523e814aa40b55e2d071cf2df81f0
+2026-03-09 01:44:16,832 - INFO - SUCCESS (instruction count=437431): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/6e858c2c9ae20e3149cb0012ab9a24995aa331d2a818b127b2f517bc3aa745a0
+2026-03-09 01:45:30,864 - INFO - SUCCESS (instruction count=438024): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/7684e1dfaeb2e7c8fd1c9bd65041b705bc92a87d9e11e327309f6c21b5e7ad97
+2026-03-09 01:47:38,912 - INFO - SUCCESS (instruction count=742275): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/899ef7681982941b233e1ea3c1a6d5a4e90153bbb2809f70ee5f6fcece06cabc
+2026-03-09 01:48:05,299 - INFO - SUCCESS (instruction count=71573): Desktop/CIS6530/Submission 2/Executable Malware/G0044_Winnti Group/617f9add4c27f3bb91a32fee007cce01f5a51deaf42e75e6cec3e71afe2ba967
+2026-03-09 01:48:05,301 - INFO - ====================================================
+2026-03-09 01:48:05,301 - INFO - APT GROUP SUMMARY: G0044_Winnti Group
+2026-03-09 01:48:05,301 - INFO - ----------------------------------------------------
+2026-03-09 01:48:05,301 - INFO - Total       : 6
+2026-03-09 01:48:05,301 - INFO - Success     : 6
+2026-03-09 01:48:05,301 - INFO - Packed      : 0
+2026-03-09 01:48:05,301 - INFO - Obfuscated  : 0
+2026-03-09 01:48:05,301 - INFO - Failed      : 0
+2026-03-09 01:48:05,301 - INFO - Timeout     : 0
+2026-03-09 01:48:05,301 - INFO - Skipped     : 0
+2026-03-09 01:48:05,301 - INFO - ====================================================
+
+2026-03-09 01:49:40,811 - INFO - SUCCESS (instruction count=1010): Desktop/CIS6530/Submission 2/Executable Malware/G0128_ZIRCONIUM/640128a35efc0ad83fe5b1461090f1b869c7a6ed0a8a661be403359d48a78085
+2026-03-09 01:49:53,348 - INFO - SUCCESS (instruction count=13506): Desktop/CIS6530/Submission 2/Executable Malware/G0128_ZIRCONIUM/efdbb19fb65bcf5c4a8feb3eab784682d01f3e75f711674e4d469d4dfe4a21f3
+2026-03-09 01:49:55,861 - INFO - SUCCESS (instruction count=17233): Desktop/CIS6530/Submission 2/Executable Malware/G0128_ZIRCONIUM/874b946b674715c580e7b379e9597e48c85c04cca3a2790d943f56600b575d2f
+2026-03-09 01:50:02,772 - INFO - SUCCESS (instruction count=1029): Desktop/CIS6530/Submission 2/Executable Malware/G0128_ZIRCONIUM/c15a475f8324fdfcd959ffc40bcbee655cbdc5ab9cbda0caf59d63700989766f
+2026-03-09 01:51:24,103 - INFO - SUCCESS (instruction count=147291): Desktop/CIS6530/Submission 2/Executable Malware/G0128_ZIRCONIUM/e1999a3e5a611312e16bb65bb5a880dfedbab8d4d2c0a5d3ed1ed926a3f63e94
+2026-03-09 01:51:24,105 - INFO - ====================================================
+2026-03-09 01:51:24,105 - INFO - APT GROUP SUMMARY: G0128_ZIRCONIUM
+2026-03-09 01:51:24,105 - INFO - ----------------------------------------------------
+2026-03-09 01:51:24,105 - INFO - Total       : 5
+2026-03-09 01:51:24,105 - INFO - Success     : 5
+2026-03-09 01:51:24,105 - INFO - Packed      : 0
+2026-03-09 01:51:24,105 - INFO - Obfuscated  : 0
+2026-03-09 01:51:24,105 - INFO - Failed      : 0
+2026-03-09 01:51:24,105 - INFO - Timeout     : 0
+2026-03-09 01:51:24,105 - INFO - Skipped     : 0
+2026-03-09 01:51:24,105 - INFO - ====================================================
+
+2026-03-09 01:52:09,336 - INFO - SUCCESS (instruction count=676): Desktop/CIS6530/Submission 2/Executable Malware/G0026_APT18/0a1103bc90725d4665b932f88e81d39eafa5823b0de3ab146e2d4548b7da79a0
+2026-03-09 01:52:10,817 - INFO - SUCCESS (instruction count=489): Desktop/CIS6530/Submission 2/Executable Malware/G0026_APT18/35a9a8803ddb58540efa21b70bad2147fe3ab79859a049573618c11bffa44dc0
+2026-03-09 01:52:10,924 - INFO - SUCCESS (instruction count=1046): Desktop/CIS6530/Submission 2/Executable Malware/G0026_APT18/7904241f336bace19b9720e38a5cd20b6d5c63233ddbda3a8d76153716ef9a95
+2026-03-09 01:52:21,397 - INFO - SUCCESS (instruction count=28291): Desktop/CIS6530/Submission 2/Executable Malware/G0026_APT18/390d25a11d34d10ef742660199d4c30e89a5a2cb8082f61f3c0deebcb176946e
+2026-03-09 01:52:25,922 - INFO - SUCCESS (instruction count=4777): Desktop/CIS6530/Submission 2/Executable Malware/G0026_APT18/1a061c74619de6af8c02cba0fa00754bdd9e3515c0e08cad6350c7adfc8cdd5b
+2026-03-09 01:52:25,923 - INFO - ====================================================
+2026-03-09 01:52:25,923 - INFO - APT GROUP SUMMARY: G0026_APT18
+2026-03-09 01:52:25,923 - INFO - ----------------------------------------------------
+2026-03-09 01:52:25,923 - INFO - Total       : 5
+2026-03-09 01:52:25,923 - INFO - Success     : 5
+2026-03-09 01:52:25,923 - INFO - Packed      : 0
+2026-03-09 01:52:25,923 - INFO - Obfuscated  : 0
+2026-03-09 01:52:25,923 - INFO - Failed      : 0
+2026-03-09 01:52:25,923 - INFO - Timeout     : 0
+2026-03-09 01:52:25,923 - INFO - Skipped     : 0
+2026-03-09 01:52:25,923 - INFO - ====================================================
+
+2026-03-09 01:53:23,983 - INFO - SUCCESS (instruction count=6610): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/75a3b0f83b71a9c8470400b89b1c4dc18caca41de9a8c0dd31016f136cc4182b
+2026-03-09 01:53:24,415 - INFO - SUCCESS (instruction count=10808): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/a26df4f62ada084a596bf0f603691bc9c02024be98abec4a9872f0ff0085f940
+2026-03-09 01:53:55,105 - INFO - SUCCESS (instruction count=41129): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/6d2f5675630d0dae65a796ac624fb90f42f35fbe5dec2ec8f4adce5ebfaabf75
+2026-03-09 01:54:53,420 - INFO - SUCCESS (instruction count=37371): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/cdf0e4c415eb55bccb43a650e330348b63bc3cbb53f71a215c44ede939b4b830
+2026-03-09 01:55:22,782 - INFO - SUCCESS (instruction count=785): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/5d1414b47d88e95ae6612d3fc211c29b35cc5db4a8a992f5e27cff5203ebf44b
+2026-03-09 01:55:35,887 - INFO - SUCCESS (instruction count=74330): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/e451a1e05c0cc363a185a98819cd2af421ac87154702bf72007ecc0134c7f417
+2026-03-09 01:55:46,298 - INFO - SUCCESS (instruction count=79703): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/3d18bb8b9a5af20ab10441c8cd40feff0aabdd3f4c669ad40111e3aa5e8c54b8
+2026-03-09 01:56:03,425 - INFO - SUCCESS (instruction count=134446): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/cb1a536e11ae1000c1b29233544377263732ca67cd679f3f6b20016fbd429817
+2026-03-09 01:56:51,921 - INFO - SUCCESS (instruction count=17184): Desktop/CIS6530/Submission 2/Executable Malware/G0098_BlackTech/9603b62268c2bbb06da5c99572c3dc2ec988c49c86db2abc391acf53c1cccceb
+2026-03-09 01:56:51,923 - INFO - ====================================================
+2026-03-09 01:56:51,923 - INFO - APT GROUP SUMMARY: G0098_BlackTech
+2026-03-09 01:56:51,923 - INFO - ----------------------------------------------------
+2026-03-09 01:56:51,923 - INFO - Total       : 9
+2026-03-09 01:56:51,923 - INFO - Success     : 9
+2026-03-09 01:56:51,923 - INFO - Packed      : 0
+2026-03-09 01:56:51,923 - INFO - Obfuscated  : 0
+2026-03-09 01:56:51,923 - INFO - Failed      : 0
+2026-03-09 01:56:51,923 - INFO - Timeout     : 0
+2026-03-09 01:56:51,923 - INFO - Skipped     : 0
+2026-03-09 01:56:51,923 - INFO - ====================================================
+
+2026-03-09 01:57:35,145 - INFO - SUCCESS (instruction count=21782): Desktop/CIS6530/Submission 2/Executable Malware/G0017_DragonOK/f0540148768247ed001f3894cdfa52d8e40b17d38df0f97e040a49baa3f5c92e
+2026-03-09 01:57:35,640 - INFO - SUCCESS (instruction count=21788): Desktop/CIS6530/Submission 2/Executable Malware/G0017_DragonOK/548aa050cfe079c3d4cfbd4bea7e6ffcc3bf88e3105e955a3e665c5ca69203fb
+2026-03-09 01:57:35,642 - INFO - ====================================================
+2026-03-09 01:57:35,642 - INFO - APT GROUP SUMMARY: G0017_DragonOK
+2026-03-09 01:57:35,642 - INFO - ----------------------------------------------------
+2026-03-09 01:57:35,642 - INFO - Total       : 2
+2026-03-09 01:57:35,642 - INFO - Success     : 2
+2026-03-09 01:57:35,642 - INFO - Packed      : 0
+2026-03-09 01:57:35,642 - INFO - Obfuscated  : 0
+2026-03-09 01:57:35,642 - INFO - Failed      : 0
+2026-03-09 01:57:35,642 - INFO - Timeout     : 0
+2026-03-09 01:57:35,642 - INFO - Skipped     : 0
+2026-03-09 01:57:35,642 - INFO - ====================================================
+
+2026-03-09 02:00:09,977 - INFO - SUCCESS (instruction count=163): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/b1aed59dc59a4ef4c7d2b6e67983e4867e04ba35c42372eb3b6ad969bd6a6041
+2026-03-09 02:00:10,407 - INFO - SUCCESS (instruction count=163): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/38238f14d63d14075824cc9afd9a3b84df9b9c2f1408ac440458196a9e690db6
+2026-03-09 02:00:21,383 - INFO - SUCCESS (instruction count=11074): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/74ff3b246fde30bb3c14483279d4b00312038957e3956bf8682362044ddccf42
+2026-03-09 02:00:21,395 - INFO - SUCCESS (instruction count=10626): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/861edc857e53ff072947c2befc3c372c9a954a7de5c48c53b99c64ff99b69dbd
+2026-03-09 02:00:32,212 - INFO - SUCCESS (instruction count=163): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/2978c6cfff1754c85a4a22b6a72dc9e60b596b54e65ed5ab2c80b8bc259ca5dc
+2026-03-09 02:00:41,142 - INFO - SUCCESS (instruction count=163): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/4241a9371023e7452475117ff1fcd67262dab56bf1943b5e0c73ff2b2e41f876
+2026-03-09 02:00:42,935 - INFO - SUCCESS (instruction count=14671): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/63bd3f80387e3f2c7130bc3b36474c24edca4f063161b25bfe0c90b378b9c19c
+2026-03-09 02:00:46,393 - INFO - SUCCESS (instruction count=10626): Desktop/CIS6530/Submission 2/Executable Malware/G0031_Dust Storm/580c7ed2b624a0dfa749909d3e11070465bd310663d30fb6fe3532ad45d57b8a
+2026-03-09 02:00:46,394 - INFO - ====================================================
+2026-03-09 02:00:46,394 - INFO - APT GROUP SUMMARY: G0031_Dust Storm
+2026-03-09 02:00:46,394 - INFO - ----------------------------------------------------
+2026-03-09 02:00:46,394 - INFO - Total       : 8
+2026-03-09 02:00:46,394 - INFO - Success     : 8
+2026-03-09 02:00:46,394 - INFO - Packed      : 0
+2026-03-09 02:00:46,394 - INFO - Obfuscated  : 0
+2026-03-09 02:00:46,394 - INFO - Failed      : 0
+2026-03-09 02:00:46,394 - INFO - Timeout     : 0
+2026-03-09 02:00:46,394 - INFO - Skipped     : 0
+2026-03-09 02:00:46,394 - INFO - ====================================================
+
+2026-03-09 02:01:25,409 - INFO - SUCCESS (instruction count=5247): Desktop/CIS6530/Submission 2/Executable Malware/G0065_Leviathan/7ba05abdf8f0323aa30c3d52e22df951eb5b67a2620014336eab7907b0a5cedf
+2026-03-09 02:01:37,288 - INFO - SUCCESS (instruction count=27439): Desktop/CIS6530/Submission 2/Executable Malware/G0065_Leviathan/b731b4871f95c51ac47a3fa3fdc0704e624b0e923dc327af371dd851625646dd
+2026-03-09 02:01:39,616 - INFO - SUCCESS (instruction count=50602): Desktop/CIS6530/Submission 2/Executable Malware/G0065_Leviathan/5860ddc428ffa900258207e9c385f843a3472f2fbf252d2f6357d458646cf362
+2026-03-09 02:01:39,617 - INFO - ====================================================
+2026-03-09 02:01:39,617 - INFO - APT GROUP SUMMARY: G0065_Leviathan
+2026-03-09 02:01:39,617 - INFO - ----------------------------------------------------
+2026-03-09 02:01:39,617 - INFO - Total       : 3
+2026-03-09 02:01:39,617 - INFO - Success     : 3
+2026-03-09 02:01:39,617 - INFO - Packed      : 0
+2026-03-09 02:01:39,617 - INFO - Obfuscated  : 0
+2026-03-09 02:01:39,617 - INFO - Failed      : 0
+2026-03-09 02:01:39,617 - INFO - Timeout     : 0
+2026-03-09 02:01:39,617 - INFO - Skipped     : 0
+2026-03-09 02:01:39,617 - INFO - ====================================================
+
+2026-03-09 02:02:13,879 - INFO - SUCCESS (instruction count=212): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/233af642b3e22613551e087a7cefcf2a530752da6613efc52da7cb957cb8f0f3
+2026-03-09 02:02:14,852 - INFO - SUCCESS (instruction count=185): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/7fe67567a5de33166168357d663b85bd452d64a4340bdad29fe71588ad95bf6f
+2026-03-09 02:02:53,921 - INFO - SUCCESS (instruction count=52079): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/80a8a9a2e91ead0ae5884e823dca73ef9fce59ff96111c632902d6c04401a4fe
+2026-03-09 02:02:56,787 - INFO - SUCCESS (instruction count=56105): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/072022b54085690001ff9ec546051b2f60564ffbf5b917ac1f5a0e3abe7254a5
+2026-03-09 02:03:01,745 - INFO - SUCCESS (instruction count=18506): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/840d18698ff0b114ee587f57231001d046fbd1eb22603e0f951cbb8c290804ed
+2026-03-09 02:03:01,754 - INFO - SUCCESS (instruction count=17706): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/37fe8efe828893042e4f1db7386d20fec55518a3587643f54d4c3ec82c35df6d
+2026-03-09 02:03:31,281 - INFO - SUCCESS (instruction count=9027): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/f7ea532becda13a1dcef37b4a7ca140c56796d1868867e82500e672a68d029e4
+2026-03-09 02:03:31,399 - INFO - SUCCESS (instruction count=16811): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/3585a5cbbf1b8b3206d7280355194d5442ed997f61e061fd6938a93163c79507
+2026-03-09 02:03:31,838 - INFO - SUCCESS (instruction count=19328): Desktop/CIS6530/Submission 2/Executable Malware/G0030_Lotus Blossom/c4a7a9ff4380f6b4730e3126fdaf450c624c0b7f5e9158063a92529fa133eaf2
+2026-03-09 02:03:31,841 - INFO - ====================================================
+2026-03-09 02:03:31,841 - INFO - APT GROUP SUMMARY: G0030_Lotus Blossom
+2026-03-09 02:03:31,841 - INFO - ----------------------------------------------------
+2026-03-09 02:03:31,841 - INFO - Total       : 9
+2026-03-09 02:03:31,841 - INFO - Success     : 9
+2026-03-09 02:03:31,841 - INFO - Packed      : 0
+2026-03-09 02:03:31,841 - INFO - Obfuscated  : 0
+2026-03-09 02:03:31,841 - INFO - Failed      : 0
+2026-03-09 02:03:31,841 - INFO - Timeout     : 0
+2026-03-09 02:03:31,841 - INFO - Skipped     : 0
+2026-03-09 02:03:31,841 - INFO - ====================================================
+
+2026-03-09 02:04:16,101 - INFO - SUCCESS (instruction count=723): Desktop/CIS6530/Submission 2/Executable Malware/G0068_PLATINUM/0075be8e71880469a8c4b3f6f52970351d5dacdd30fa7885de0710b9eac97405
+2026-03-09 02:04:16,642 - INFO - SUCCESS (instruction count=241): Desktop/CIS6530/Submission 2/Executable Malware/G0068_PLATINUM/f50e86f22fa1c38b18b54f7827a1f1c152e6c56ff24dc8f923625bc12bd6efe9
+2026-03-09 02:04:19,584 - INFO - SUCCESS (instruction count=3792): Desktop/CIS6530/Submission 2/Executable Malware/G0068_PLATINUM/33aae7a365839916a484c7626feb5eeba02915ceb4a0a4b65a934580cd05491a
+2026-03-09 02:04:44,175 - INFO - SUCCESS (instruction count=2518): Desktop/CIS6530/Submission 2/Executable Malware/G0068_PLATINUM/6ffb6c322008874cbfd936c69bf816e5a3fe04daf1fed3115297cf06b7917511
+2026-03-09 02:04:44,779 - INFO - SUCCESS (instruction count=34815): Desktop/CIS6530/Submission 2/Executable Malware/G0068_PLATINUM/23ea986ddaa82e5947f02bd8aa1d5d326384a9137b6f93c76b64ee9e5001ffc7
+2026-03-09 02:04:45,152 - INFO - SUCCESS (instruction count=4035): Desktop/CIS6530/Submission 2/Executable Malware/G0068_PLATINUM/f79c426f58fd41010b5dd14d3ff47228c7b6a2ccaf47c14fd899b3173871204c
+2026-03-09 02:04:45,558 - INFO - SUCCESS (instruction count=1371): Desktop/CIS6530/Submission 2/Executable Malware/G0068_PLATINUM/ff6181cbf78edbbea17dce94132991fd7179c61e79030ec348a3039ae1f7598a
+2026-03-09 02:04:45,559 - INFO - ====================================================
+2026-03-09 02:04:45,559 - INFO - APT GROUP SUMMARY: G0068_PLATINUM
+2026-03-09 02:04:45,559 - INFO - ----------------------------------------------------
+2026-03-09 02:04:45,559 - INFO - Total       : 7
+2026-03-09 02:04:45,559 - INFO - Success     : 7
+2026-03-09 02:04:45,559 - INFO - Packed      : 0
+2026-03-09 02:04:45,559 - INFO - Obfuscated  : 0
+2026-03-09 02:04:45,559 - INFO - Failed      : 0
+2026-03-09 02:04:45,559 - INFO - Timeout     : 0
+2026-03-09 02:04:45,559 - INFO - Skipped     : 0
+2026-03-09 02:04:45,559 - INFO - ====================================================
+
+2026-03-09 02:08:57,890 - INFO - SUCCESS (instruction count=2521): Desktop/CIS6530/Submission 2/Executable Malware/G0075_Rancor/22a5bd54f15f33f4218454e53679d7cfae32c03ddb6ec186fb5e6f8b7f7c098b
+2026-03-09 02:08:58,718 - INFO - SUCCESS (instruction count=2228): Desktop/CIS6530/Submission 2/Executable Malware/G0075_Rancor/b815ba481e87201d4bc29d009bba3ea9600e88faeb95ff4a8cde947b8127ae30
+2026-03-09 02:08:59,281 - INFO - SUCCESS (instruction count=5172): Desktop/CIS6530/Submission 2/Executable Malware/G0075_Rancor/128adaba3e6251d1af305a85ebfaafb2a8028eed3b9b031c54176ca7cef539d2
+2026-03-09 02:09:01,049 - INFO - SUCCESS (instruction count=9943): Desktop/CIS6530/Submission 2/Executable Malware/G0075_Rancor/1950bfb13b275580bc2abdb1c702afc087f5d472513193a8432403363dcf1877
+2026-03-09 02:09:01,050 - INFO - ====================================================
+2026-03-09 02:09:01,051 - INFO - APT GROUP SUMMARY: G0075_Rancor
+2026-03-09 02:09:01,051 - INFO - ----------------------------------------------------
+2026-03-09 02:09:01,051 - INFO - Total       : 4
+2026-03-09 02:09:01,051 - INFO - Success     : 4
+2026-03-09 02:09:01,051 - INFO - Packed      : 0
+2026-03-09 02:09:01,051 - INFO - Obfuscated  : 0
+2026-03-09 02:09:01,051 - INFO - Failed      : 0
+2026-03-09 02:09:01,051 - INFO - Timeout     : 0
+2026-03-09 02:09:01,051 - INFO - Skipped     : 0
+2026-03-09 02:09:01,051 - INFO - ====================================================
+
+2026-03-09 02:09:34,155 - INFO - SUCCESS (instruction count=629): Desktop/CIS6530/Submission 2/Executable Malware/G0015_Taidoor/e9734b79eed20b86568926ab2d5851af56bec512c974daf75d433f45c41d2f14
+2026-03-09 02:09:38,665 - INFO - SUCCESS (instruction count=6941): Desktop/CIS6530/Submission 2/Executable Malware/G0015_Taidoor/6e6d3a831c03b09d9e4a54859329fbfd428083f8f5bc5f27abbfdd9c47ec0e57
+2026-03-09 02:09:38,687 - INFO - SUCCESS (instruction count=7677): Desktop/CIS6530/Submission 2/Executable Malware/G0015_Taidoor/4a0688baf9661d3737ee82f8992a0a665732c91704f28688f643115648c107d4
+2026-03-09 02:09:38,688 - INFO - ====================================================
+2026-03-09 02:09:38,688 - INFO - APT GROUP SUMMARY: G0015_Taidoor
+2026-03-09 02:09:38,688 - INFO - ----------------------------------------------------
+2026-03-09 02:09:38,688 - INFO - Total       : 3
+2026-03-09 02:09:38,688 - INFO - Success     : 3
+2026-03-09 02:09:38,688 - INFO - Packed      : 0
+2026-03-09 02:09:38,689 - INFO - Obfuscated  : 0
+2026-03-09 02:09:38,689 - INFO - Failed      : 0
+2026-03-09 02:09:38,689 - INFO - Timeout     : 0
+2026-03-09 02:09:38,689 - INFO - Skipped     : 0
+2026-03-09 02:09:38,689 - INFO - ====================================================
+
+2026-03-09 02:10:30,789 - INFO - SUCCESS (instruction count=13576): Desktop/CIS6530/Submission 2/Executable Malware/G0076_Thrip/dc86a82751b26f410b0aa1b7f0c019cc455d6c74fe40f02dfdad119e48915ec0
+2026-03-09 02:10:36,588 - INFO - SUCCESS (instruction count=19790): Desktop/CIS6530/Submission 2/Executable Malware/G0076_Thrip/1e164da9ddd19d0b654e8a60b416c80e82f9bfc0ab35dd262733f4364610c9f4
+2026-03-09 02:10:41,048 - INFO - SUCCESS (instruction count=29787): Desktop/CIS6530/Submission 2/Executable Malware/G0076_Thrip/9348eba0582b19c4580491a32457a1904c41c06dee27ed07c86d986d3c98d15c
+2026-03-09 02:10:45,838 - INFO - SUCCESS (instruction count=42461): Desktop/CIS6530/Submission 2/Executable Malware/G0076_Thrip/780620521c92aab3d592b3dc149cbf58751ea285cfdaa50510002b441796b312
+2026-03-09 02:11:05,478 - INFO - SUCCESS (instruction count=21124): Desktop/CIS6530/Submission 2/Executable Malware/G0076_Thrip/db921a575fa7fd4b0c1b405a54f77d10c73eb1cb1384a27d584d7323e72938b6
+2026-03-09 02:11:07,630 - INFO - SUCCESS (instruction count=21725): Desktop/CIS6530/Submission 2/Executable Malware/G0076_Thrip/6b236d3fc54d36e6dc2a26299f6ded597058fed7c9099f1a37716c5e4b162abc
+2026-03-09 02:11:07,631 - INFO - ====================================================
+2026-03-09 02:11:07,631 - INFO - APT GROUP SUMMARY: G0076_Thrip
+2026-03-09 02:11:07,631 - INFO - ----------------------------------------------------
+2026-03-09 02:11:07,631 - INFO - Total       : 6
+2026-03-09 02:11:07,631 - INFO - Success     : 6
+2026-03-09 02:11:07,631 - INFO - Packed      : 0
+2026-03-09 02:11:07,631 - INFO - Obfuscated  : 0
+2026-03-09 02:11:07,631 - INFO - Failed      : 0
+2026-03-09 02:11:07,631 - INFO - Timeout     : 0
+2026-03-09 02:11:07,631 - INFO - Skipped     : 0
+2026-03-09 02:11:07,631 - INFO - ====================================================
+
+2026-03-09 02:12:04,424 - INFO - SUCCESS (instruction count=16616): Desktop/CIS6530/Submission 2/Executable Malware/G0081_Tropic Trooper/98af7888655b8bcac49b76c074fc08877807ac074fb4e81a6cacfd1566d52f12
+2026-03-09 02:12:05,041 - INFO - SUCCESS (instruction count=16737): Desktop/CIS6530/Submission 2/Executable Malware/G0081_Tropic Trooper/9dff4c8f403338875d009508c64a0e4d4a5eeac191d7654a7793c823fb8e3018
+2026-03-09 02:12:16,168 - INFO - SUCCESS (instruction count=38460): Desktop/CIS6530/Submission 2/Executable Malware/G0081_Tropic Trooper/4bc0d29dc365234599c016b795e01ccd07a809dde7bc3107b43c24812b529ffd
+2026-03-09 02:12:37,248 - INFO - SUCCESS (instruction count=14157): Desktop/CIS6530/Submission 2/Executable Malware/G0081_Tropic Trooper/79e478254ffc70a2abc83bbcf0ead9563fa68a793835f1d78cc1e7f49bdc3f67
+2026-03-09 02:12:44,802 - INFO - SUCCESS (instruction count=38432): Desktop/CIS6530/Submission 2/Executable Malware/G0081_Tropic Trooper/23dea3a74e3ff6a367754d02466db4c86ffda47efe09529d3aad52b0d5694b30
+2026-03-09 02:15:26,353 - WARNING - POSSIBLE OBFUSCATED (very high instruction count=1372302): Desktop/CIS6530/Submission 2/Executable Malware/G0081_Tropic Trooper/ea2f8884fee1b5a10a0286c5acfb283a60b97b0a3325508b38900b16255e5589
+2026-03-09 02:15:26,361 - INFO - ====================================================
+2026-03-09 02:15:26,361 - INFO - APT GROUP SUMMARY: G0081_Tropic Trooper
+2026-03-09 02:15:26,361 - INFO - ----------------------------------------------------
+2026-03-09 02:15:26,361 - INFO - Total       : 6
+2026-03-09 02:15:26,361 - INFO - Success     : 5
+2026-03-09 02:15:26,361 - INFO - Packed      : 0
+2026-03-09 02:15:26,361 - INFO - Obfuscated  : 1
+2026-03-09 02:15:26,361 - INFO - Failed      : 0
+2026-03-09 02:15:26,361 - INFO - Timeout     : 0
+2026-03-09 02:15:26,361 - INFO - Skipped     : 0
+2026-03-09 02:15:26,361 - INFO - ====================================================
+
+2026-03-09 02:15:44,903 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: Desktop/CIS6530/Submission 2/Executable Malware/G0050_APT32/be2648d8ac9aca8c1fb338328dccdfa366b341e167dcb1f7c700eaf809a154f7
+2026-03-09 02:15:57,284 - INFO - SUCCESS (instruction count=15936): Desktop/CIS6530/Submission 2/Executable Malware/G0050_APT32/19f16a4eceb8b57b2bcad11c76446f05b1e1f4b7c7f23201e08dc8fa07659cf0
+2026-03-09 02:16:00,699 - INFO - SUCCESS (instruction count=1404): Desktop/CIS6530/Submission 2/Executable Malware/G0050_APT32/0241b90dff6b2c76bcae2c50ff1b4a1d8957ffedd6b316ec9d4f0d454748959b
+2026-03-09 02:16:00,701 - INFO - ====================================================
+2026-03-09 02:16:00,701 - INFO - APT GROUP SUMMARY: G0050_APT32
+2026-03-09 02:16:00,701 - INFO - ----------------------------------------------------
+2026-03-09 02:16:00,701 - INFO - Total       : 3
+2026-03-09 02:16:00,701 - INFO - Success     : 2
+2026-03-09 02:16:00,701 - INFO - Packed      : 0
+2026-03-09 02:16:00,701 - INFO - Obfuscated  : 0
+2026-03-09 02:16:00,701 - INFO - Failed      : 0
+2026-03-09 02:16:00,701 - INFO - Timeout     : 0
+2026-03-09 02:16:00,701 - INFO - Skipped     : 1
+2026-03-09 02:16:00,701 - INFO - ====================================================
+
+2026-03-09 02:16:36,371 - INFO - SUCCESS (instruction count=17344): Desktop/CIS6530/Submission 2/Executable Malware/G0054_Sowbug/2154a8c899dc488ca11c4cef5fec35e1bb65efc89f7a1ced6efa1aa9879f6557
+2026-03-09 02:16:36,372 - INFO - ====================================================
+2026-03-09 02:16:36,372 - INFO - APT GROUP SUMMARY: G0054_Sowbug
+2026-03-09 02:16:36,372 - INFO - ----------------------------------------------------
+2026-03-09 02:16:36,372 - INFO - Total       : 1
+2026-03-09 02:16:36,372 - INFO - Success     : 1
+2026-03-09 02:16:36,372 - INFO - Packed      : 0
+2026-03-09 02:16:36,372 - INFO - Obfuscated  : 0
+2026-03-09 02:16:36,372 - INFO - Failed      : 0
+2026-03-09 02:16:36,372 - INFO - Timeout     : 0
+2026-03-09 02:16:36,372 - INFO - Skipped     : 0
+2026-03-09 02:16:36,372 - INFO - ====================================================
+
+2026-03-09 02:17:48,362 - INFO - SUCCESS (instruction count=19725): Desktop/CIS6530/Submission 2/Executable Malware/G0127_TA551/1ee4ea2caf92534944db55966b9f2aedb840a314372de27244cf7cca193cee23
+2026-03-09 02:17:51,589 - INFO - SUCCESS (instruction count=19748): Desktop/CIS6530/Submission 2/Executable Malware/G0127_TA551/36ad733b1f95e3d07b3500b3543d96676a4cf3c117d59858cdf5014bc621066a
+2026-03-09 02:17:59,376 - INFO - SUCCESS (instruction count=46931): Desktop/CIS6530/Submission 2/Executable Malware/G0127_TA551/9b281a8220a6098fefe1abd6de4fc126fddfa4f08ed1b90d15c9e0514d77e166
+2026-03-09 02:18:24,851 - INFO - SUCCESS (instruction count=156557): Desktop/CIS6530/Submission 2/Executable Malware/G0127_TA551/4468edc18de42e61b64441c75aedcb15d553410d473e77fc8ae31b358acd506a
+2026-03-09 02:18:24,854 - INFO - ====================================================
+2026-03-09 02:18:24,855 - INFO - APT GROUP SUMMARY: G0127_TA551
+2026-03-09 02:18:24,855 - INFO - ----------------------------------------------------
+2026-03-09 02:18:24,855 - INFO - Total       : 4
+2026-03-09 02:18:24,855 - INFO - Success     : 4
+2026-03-09 02:18:24,855 - INFO - Packed      : 0
+2026-03-09 02:18:24,855 - INFO - Obfuscated  : 0
+2026-03-09 02:18:24,855 - INFO - Failed      : 0
+2026-03-09 02:18:24,855 - INFO - Timeout     : 0
+2026-03-09 02:18:24,855 - INFO - Skipped     : 0
+2026-03-09 02:18:24,855 - INFO - ====================================================
+
+2026-03-09 02:18:49,157 - INFO - SUCCESS (instruction count=3160): Desktop/CIS6530/Submission 2/Executable Malware/G0089_The White Company/b58fbf6ec3910378a31f8501350a0f78baa48ccb86a6097e42763ec33f5b27f8
+2026-03-09 02:18:53,272 - INFO - SUCCESS (instruction count=1010): Desktop/CIS6530/Submission 2/Executable Malware/G0089_The White Company/3b6610abf7001660036c8527c7b5a799baf926e3ea61f8d3cd5b3bc017e61914
+2026-03-09 02:18:53,273 - INFO - ====================================================
+2026-03-09 02:18:53,273 - INFO - APT GROUP SUMMARY: G0089_The White Company
+2026-03-09 02:18:53,273 - INFO - ----------------------------------------------------
+2026-03-09 02:18:53,273 - INFO - Total       : 2
+2026-03-09 02:18:53,273 - INFO - Success     : 2
+2026-03-09 02:18:53,274 - INFO - Packed      : 0
+2026-03-09 02:18:53,274 - INFO - Obfuscated  : 0
+2026-03-09 02:18:53,274 - INFO - Failed      : 0
+2026-03-09 02:18:53,274 - INFO - Timeout     : 0
+2026-03-09 02:18:53,274 - INFO - Skipped     : 0
+2026-03-09 02:18:53,274 - INFO - ====================================================
+
+2026-03-07 14:21:55,475 - INFO - SUCCESS (instruction count=5366): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0107_Whitefly/558461b6fb0441e7f70c4224963490ea49f44d40c5700a4c7fd19be4c62b3d6a
+2026-03-07 14:22:19,366 - INFO - SUCCESS (instruction count=12259): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0107_Whitefly/ba0057a1b132ec16559efc832941455cc07f34c434da2a7434f73f1d2141bebf
+2026-03-07 14:22:44,186 - INFO - SUCCESS (instruction count=9129): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0107_Whitefly/b2b2e900aa2e96ff44610032063012aa0435a47a5b416c384bd6e4e58a048ac9
+2026-03-07 14:23:03,865 - INFO - SUCCESS (instruction count=6954): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0107_Whitefly/a835baa7ffc265346443b5d6f4828d7221594bd91be8afc08152f3d68698b672
+2026-03-07 14:23:25,598 - INFO - SUCCESS (instruction count=8694): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0107_Whitefly/e9b12791e0ab3a952fa09afd29e5a1416abd917edf5c913af7573adf8ccc39b0
+2026-03-07 14:23:44,092 - INFO - SUCCESS (instruction count=9129): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0107_Whitefly/c83651940e90fd315f29fa878e96b9e1f624c840c09c187b376cffdd4c7dcd79
+2026-03-07 14:23:44,117 - INFO - ====================================================
+2026-03-07 14:23:44,122 - INFO - APT GROUP SUMMARY: G0107_Whitefly
+2026-03-07 14:23:44,122 - INFO - ----------------------------------------------------
+2026-03-07 14:23:44,122 - INFO - Total       : 6
+2026-03-07 14:23:44,122 - INFO - Success     : 6
+2026-03-07 14:23:44,122 - INFO - Packed      : 0
+2026-03-07 14:23:44,123 - INFO - Obfuscated  : 0
+2026-03-07 14:23:44,123 - INFO - Failed      : 0
+2026-03-07 14:23:44,123 - INFO - Timeout     : 0
+2026-03-07 14:23:44,123 - INFO - Skipped     : 0
+2026-03-07 14:23:44,123 - INFO - ====================================================
+
+2026-03-07 14:26:38,966 - INFO - SUCCESS (instruction count=25844): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0112_Windshift/2a854997a44f4ba7e307d408ea2d9c1d84dde035c5dab830689aa45c5b5746ea
+2026-03-07 14:27:03,564 - INFO - SUCCESS (instruction count=4353): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0112_Windshift/ac482f8ee3c85d9fc1ad49931d7d3836f8a9c1e432ecfb122f5eadb8a3c75b15
+2026-03-07 14:27:03,599 - INFO - ====================================================
+2026-03-07 14:27:03,603 - INFO - APT GROUP SUMMARY: G0112_Windshift
+2026-03-07 14:27:03,603 - INFO - ----------------------------------------------------
+2026-03-07 14:27:03,604 - INFO - Total       : 2
+2026-03-07 14:27:03,604 - INFO - Success     : 2
+2026-03-07 14:27:03,604 - INFO - Packed      : 0
+2026-03-07 14:27:03,604 - INFO - Obfuscated  : 0
+2026-03-07 14:27:03,604 - INFO - Failed      : 0
+2026-03-07 14:27:03,604 - INFO - Timeout     : 0
+2026-03-07 14:27:03,604 - INFO - Skipped     : 0
+2026-03-07 14:27:03,604 - INFO - ====================================================
+
+2026-03-07 14:29:56,167 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/474ee78c6636ee478ea7f4521559679fbc468bb326357737bfc465e63ed153fa
+2026-03-07 14:30:10,960 - INFO - SUCCESS (instruction count=4353): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/6427baa1ce5ba37ff6cf3fff79b543018a0a8e8f088c3f66afb24561e4e9de43
+2026-03-07 14:30:23,969 - INFO - SUCCESS (instruction count=2288): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/9760043ad36a34d6548cafe1e89cb53f6af76a28d492da37517d7cb1912eb154
+2026-03-07 14:30:27,602 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/c1693ee747e31541919f84dfa89e36ca5b74074044b181656d95d7f40af34a05
+2026-03-07 14:30:41,295 - INFO - SUCCESS (instruction count=2959): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/7276c6c6bff30cc9ddd97f4cd3e33102017281ffa7e164819dddc0beb83bafcf
+2026-03-07 14:32:38,037 - INFO - SUCCESS (instruction count=578987): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/5f607374431d77a7398927f45c5d1efc57513250622e23535dbc0a0a0584c3a1
+2026-03-07 14:32:42,218 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/f48c210d57d291b3d5ef4eba81f8134a79a153996ab8d6d60a10e11b93e3285c
+2026-03-07 14:34:28,760 - INFO - SUCCESS (instruction count=578987): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0033_PoseidonGroup/2019fec607e8955b79d194e1c6408e5c50269dac60b6f5864f36814774713361
+2026-03-07 14:34:28,790 - INFO - ====================================================
+2026-03-07 14:34:28,795 - INFO - APT GROUP SUMMARY: G0033_PoseidonGroup
+2026-03-07 14:34:28,795 - INFO - ----------------------------------------------------
+2026-03-07 14:34:28,795 - INFO - Total       : 8
+2026-03-07 14:34:28,795 - INFO - Success     : 5
+2026-03-07 14:34:28,795 - INFO - Packed      : 0
+2026-03-07 14:34:28,795 - INFO - Obfuscated  : 0
+2026-03-07 14:34:28,795 - INFO - Failed      : 0
+2026-03-07 14:34:28,795 - INFO - Timeout     : 0
+2026-03-07 14:34:28,795 - INFO - Skipped     : 3
+2026-03-07 14:34:28,795 - INFO - ====================================================
+
+2026-03-07 14:38:56,825 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/4f44ee43c3b1aa0a3654d9a93972acd198fae39c3ab71f3f1f2f1302771fa365
+2026-03-07 14:39:34,651 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/87effdf835590f85db589768b14adae2f76b59b2f33fae0300aef50575e6340d
+2026-03-07 14:39:52,400 - WARNING - POSSIBLE PACKED (low instruction count=13): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/ee475a36d64298fb59973c6784c1cd4649d531addc5eeeb00ffa1258d3d29c60
+2026-03-07 14:40:27,634 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/61685ea4dc4ca4d01e0513d5e23ee04fc9758d6b189325b34d5b16da254cc9f4
+2026-03-07 14:40:46,650 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/7dd847e9eba6ebe8c73c45b1e8fecce43e4b73ab92d48b383516e0a6a57b00d3
+2026-03-07 14:41:06,104 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/9fb8f0c2d645870c4b48701a1ef84503b54d203f4cec54ae4bfb30e5f754c2d4
+2026-03-07 14:41:18,058 - WARNING - POSSIBLE PACKED (low instruction count=9): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/c1882addade5ac2607b419f91a46ec169e75040f91bdb7806c5a132a3aa93690
+2026-03-07 14:41:29,302 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/d9a35e4493b187726d129d1406521a902daffc1f50a75ad022975a5b796505cd
+2026-03-07 14:43:56,675 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/ec2dd6753e42f0e0b173a98f074aa41d2640390c163ae77999eb6c10ff7e2ebd
+2026-03-07 14:44:07,405 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/4c8721c7bcb25c52a8de36a2801cf0cb3baa5347896e1587d0679892255907b5
+2026-03-07 14:44:33,571 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/54716a9a3a8fb7cc6be3074ea0472703ec03e1421d553b0dc6b3ebe7b1ec10bb
+2026-03-07 14:45:04,514 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/20549f237f3552570692e6e2bb31c4d2ddf8133c5f59f5914522e88239370514
+2026-03-07 14:45:16,798 - WARNING - POSSIBLE PACKED (low instruction count=4): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/5592b654ddb2a0a5172693b546e521cf4f12ffc107d83ec69e3017af67422334
+2026-03-07 14:46:13,466 - INFO - SUCCESS (instruction count=119857): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/8b6a909110ca907eb279cfb8f6db432af5564263e49c6982001b83fcffe04c07
+2026-03-07 14:46:25,658 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/3e466f7e99f42aea17a56cebb60bbb17eb2e8fbb8e779b5b076d81a2717a92c7
+2026-03-07 14:46:37,738 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/8102623e6f4d3c4dcc26b594360b19c79f80c64c50102c141941dd8b5654a3ff
+2026-03-07 14:47:05,827 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/c5b11f830602e641f7d86a756da6b745d80ef6431be3f373be6912cab5f7acf5
+2026-03-07 14:47:50,831 - INFO - SUCCESS (instruction count=740): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/2a65ffc042cc9b54f0d4d9eeab9994cd4ec1a7d13bb6ca40e807fa6307b65c22
+2026-03-07 14:54:07,636 - ERROR - FAILED (Ghidra execution error): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/a47fc3a89f146c292dfbeec19aad76d69f3624ff09086fdc0ec7ffffc3d78ac4
+2026-03-07 14:54:21,749 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0099_APT-C-36/0e730fbd55791807de0c882f8165a05dc4e03231aae5bffdca014569dc045ff0
+2026-03-07 14:54:21,761 - INFO - ====================================================
+2026-03-07 14:54:21,762 - INFO - APT GROUP SUMMARY: G0099_APT-C-36
+2026-03-07 14:54:21,762 - INFO - ----------------------------------------------------
+2026-03-07 14:54:21,762 - INFO - Total       : 20
+2026-03-07 14:54:21,762 - INFO - Success     : 2
+2026-03-07 14:54:21,762 - INFO - Packed      : 17
+2026-03-07 14:54:21,762 - INFO - Obfuscated  : 0
+2026-03-07 14:54:21,762 - INFO - Failed      : 1
+2026-03-07 14:54:21,762 - INFO - Timeout     : 0
+2026-03-07 14:54:21,762 - INFO - Skipped     : 0
+2026-03-07 14:54:21,762 - INFO - ====================================================
+
+2026-03-07 14:59:10,333 - INFO - SUCCESS (instruction count=5049): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0012_DarkHotel/055d8b571eba1499cd801c95460685b39763a140446753af7f72207cc2bad080
+2026-03-07 14:59:26,647 - INFO - SUCCESS (instruction count=5126): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0012_DarkHotel/bfc2ef3b404294fe2fa05a8b71c7f786b58519175b7202a69fe30f45e607ff1c
+2026-03-07 15:00:00,463 - INFO - SUCCESS (instruction count=39000): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0012_DarkHotel/af2cd31a0d4dcfde86bac7bb9212b6ce56f1cff0e4f7421b3fe6a7fa0af10474
+2026-03-07 15:00:22,920 - INFO - SUCCESS (instruction count=19152): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0012_DarkHotel/543991ca8d1c65113dff039b85ae3f9a87f503daec30f46929fd454bc57e5a91
+2026-03-07 15:00:46,172 - INFO - SUCCESS (instruction count=21869): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0012_DarkHotel/4ad5514b5bd7baa05e3c9cdd55e5d19b2bd3ee2664de130590742001b1ca67c3
+2026-03-07 15:01:10,326 - INFO - SUCCESS (instruction count=21869): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0012_DarkHotel/99d97b41fa400e2d8c31c8c475b8499078cf000c66e4a4d842d4ffe6d02fdffe
+2026-03-07 15:01:55,780 - INFO - SUCCESS (instruction count=86197): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0012_DarkHotel/839baf85de657b6d6503b6f94054efa8841f667987a9c805eab94a85a859e1ba
+2026-03-07 15:01:55,800 - INFO - ====================================================
+2026-03-07 15:01:55,801 - INFO - APT GROUP SUMMARY: G0012_DarkHotel
+2026-03-07 15:01:55,801 - INFO - ----------------------------------------------------
+2026-03-07 15:01:55,801 - INFO - Total       : 7
+2026-03-07 15:01:55,801 - INFO - Success     : 7
+2026-03-07 15:01:55,801 - INFO - Packed      : 0
+2026-03-07 15:01:55,801 - INFO - Obfuscated  : 0
+2026-03-07 15:01:55,801 - INFO - Failed      : 0
+2026-03-07 15:01:55,802 - INFO - Timeout     : 0
+2026-03-07 15:01:55,802 - INFO - Skipped     : 0
+2026-03-07 15:01:55,802 - INFO - ====================================================
+
+2026-03-07 15:05:35,076 - INFO - SUCCESS (instruction count=6073): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0126_Higaisa/a49133ed68bebb66412d3eb5d2b84ee71c393627906f574a29247d8699f1f38e
+2026-03-07 15:08:14,835 - INFO - SUCCESS (instruction count=220109): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0126_Higaisa/9c426d8f9cf933ec604757617660b80e6dce884ac13ac29c28f50262f9695795
+2026-03-07 15:10:39,935 - INFO - SUCCESS (instruction count=34729): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0126_Higaisa/d329431aa23dba73214d1c104d01d57653fc59989a915337d1f92e6c7b56ac13
+2026-03-07 15:11:41,424 - INFO - SUCCESS (instruction count=194561): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0126_Higaisa/ff1221e79f2b3c563ccb8345cf833001a276932b3ec7d10c9f0bc9c362af1a8f
+2026-03-07 15:12:02,970 - INFO - SUCCESS (instruction count=12290): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0126_Higaisa/002c9e0578a8b76f626e59b755a8aac18b5d048f1cc76e2c12f68bc3dd18b124
+2026-03-07 15:12:02,986 - INFO - ====================================================
+2026-03-07 15:12:02,987 - INFO - APT GROUP SUMMARY: G0126_Higaisa
+2026-03-07 15:12:02,987 - INFO - ----------------------------------------------------
+2026-03-07 15:12:02,987 - INFO - Total       : 5
+2026-03-07 15:12:02,987 - INFO - Success     : 5
+2026-03-07 15:12:02,987 - INFO - Packed      : 0
+2026-03-07 15:12:02,988 - INFO - Obfuscated  : 0
+2026-03-07 15:12:02,988 - INFO - Failed      : 0
+2026-03-07 15:12:02,988 - INFO - Timeout     : 0
+2026-03-07 15:12:02,988 - INFO - Skipped     : 0
+2026-03-07 15:12:02,988 - INFO - ====================================================
+
+2026-03-07 15:15:12,786 - INFO - SUCCESS (instruction count=62421): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0095_Machete/e52516e6881c7b073d68903099db0c85ddf465c71054e9da639f66a62d0cc528
+2026-03-07 15:15:37,207 - INFO - SUCCESS (instruction count=7198): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0095_Machete/e34576a133633541fd3d915800e15048f4c28b592d4ab3401792421ac3caf2c3
+2026-03-07 15:16:00,704 - INFO - SUCCESS (instruction count=22475): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0095_Machete/242a1b8f9253b678c03507f137ade7a369c43964a9e2ee21b88289feeb61d208
+2026-03-07 15:16:25,029 - INFO - SUCCESS (instruction count=22475): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0095_Machete/590bfc6b7fbd89e629e551fa9d70f1cdc0773d73dfea503d204a05014a8f0191
+2026-03-07 15:16:59,535 - INFO - SUCCESS (instruction count=62421): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0095_Machete/0e0181499e50fb9ce8029767afdcf60ce21eea2819ce7ada1a3def4d8899c7dc
+2026-03-07 15:17:23,247 - INFO - SUCCESS (instruction count=22475): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0095_Machete/82535c7c8c1d8d49ffefe1731c7a57b9e78fd96a864c39cdc4296b5d3afb5503
+2026-03-07 15:17:23,249 - INFO - ====================================================
+2026-03-07 15:17:23,249 - INFO - APT GROUP SUMMARY: G0095_Machete
+2026-03-07 15:17:23,249 - INFO - ----------------------------------------------------
+2026-03-07 15:17:23,249 - INFO - Total       : 6
+2026-03-07 15:17:23,249 - INFO - Success     : 6
+2026-03-07 15:17:23,249 - INFO - Packed      : 0
+2026-03-07 15:17:23,250 - INFO - Obfuscated  : 0
+2026-03-07 15:17:23,250 - INFO - Failed      : 0
+2026-03-07 15:17:23,250 - INFO - Timeout     : 0
+2026-03-07 15:17:23,250 - INFO - Skipped     : 0
+2026-03-07 15:17:23,250 - INFO - ====================================================
+
+2026-03-07 15:20:36,975 - INFO - SUCCESS (instruction count=45910): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0055_NEODYMIUM/dbd8cbbaf59d19cf7566042945e36409cd090bc711e339d3f2ec652bc26d6a03
+2026-03-07 15:21:04,052 - INFO - SUCCESS (instruction count=45910): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0055_NEODYMIUM/e12031da58c0b08e8b610c3786ca2b66fcfea8ddc9ac558d08a29fd27e95a3e7
+2026-03-07 15:22:02,239 - INFO - SUCCESS (instruction count=164372): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0055_NEODYMIUM/2f98ac11c78ad1b4c5c5c10a88857baf7af43acb9162e8077709db9d563bcf02
+2026-03-07 15:22:32,488 - INFO - SUCCESS (instruction count=57862): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0055_NEODYMIUM/15ededb19ec5ab6f03db1106d2ccdeeacacdb8cd708518d065cacb1b0d7e955d
+2026-03-07 15:22:32,493 - INFO - ====================================================
+2026-03-07 15:22:32,493 - INFO - APT GROUP SUMMARY: G0055_NEODYMIUM
+2026-03-07 15:22:32,493 - INFO - ----------------------------------------------------
+2026-03-07 15:22:32,493 - INFO - Total       : 4
+2026-03-07 15:22:32,493 - INFO - Success     : 4
+2026-03-07 15:22:32,493 - INFO - Packed      : 0
+2026-03-07 15:22:32,493 - INFO - Obfuscated  : 0
+2026-03-07 15:22:32,493 - INFO - Failed      : 0
+2026-03-07 15:22:32,493 - INFO - Timeout     : 0
+2026-03-07 15:22:32,493 - INFO - Skipped     : 0
+2026-03-07 15:22:32,493 - INFO - ====================================================
+
+2026-03-07 15:25:11,662 - INFO - SUCCESS (instruction count=55887): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/9b499b3945d8f979fdbb46342e1fd3dd5b2b5aa4322e9447df13598817c670e1
+2026-03-07 15:25:36,920 - INFO - SUCCESS (instruction count=28157): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/a1ce1b78cc1a9d6092b086f2d0796cde519033ec0935d9cecdea86b6cda87882
+2026-03-07 15:26:00,866 - INFO - SUCCESS (instruction count=26555): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/fcfd34f99b0a5f4bb91c0d6eaa9b2fdcc3bf9b3dd594213a389a056828a537c1
+2026-03-07 15:26:26,291 - INFO - SUCCESS (instruction count=28020): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/5b5b0a0ff8e5bdf11657e0134a638a818e31af9517e5feffea247eaa2660ee23
+2026-03-07 15:26:44,132 - INFO - SUCCESS (instruction count=18403): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/ea4b507c3236b56ef4ea44f5ac9a531a175d643d184e356ae8833d36c1957372
+2026-03-07 15:27:08,689 - INFO - SUCCESS (instruction count=28124): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/e843af007ac3f58e26d5427e537cdbddf33d118c79dfed831eee1ffcce474569
+2026-03-07 15:27:33,497 - INFO - SUCCESS (instruction count=26524): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/5cb8f86e03a544531d972e132c81d6785b66dd1b15b6c35a0a04fd83a8bed695
+2026-03-07 15:27:55,951 - INFO - SUCCESS (instruction count=26378): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/3ce08ada9cf964789ce70fd2637ded197ac5b154e0b71e9cdb4d99de7ab52267
+2026-03-07 15:28:18,751 - INFO - SUCCESS (instruction count=27568): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/1185998fd595936708c1fc5a3ddeadbdd46b88e216419597da0b461e136ddfa7
+2026-03-07 15:28:42,390 - INFO - SUCCESS (instruction count=28851): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/1380160229604c7d499372dd8192024451291d8bf54e87f19c9e2077b1f165c6
+2026-03-07 15:29:05,103 - INFO - SUCCESS (instruction count=26378): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/fad11a279c6fe195f8110702f962c5296015344da17919b361f73f7f504063ca
+2026-03-07 15:29:21,666 - INFO - SUCCESS (instruction count=18397): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/f8c953a9b737c5fe69ab9cfb5b20d576f15396a40de10ea6c3216042a97132f4
+2026-03-07 15:29:44,160 - INFO - SUCCESS (instruction count=26522): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/3da5ad345fa5dc65c5313a0846897ba696630e1b4c6b9388e7a479edce27745e
+2026-03-07 15:30:02,435 - INFO - SUCCESS (instruction count=16821): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/d9120629675b34e1a33b9bd34fadd0249ce1a903d510045565c31769e4881e78
+2026-03-07 15:30:26,514 - INFO - SUCCESS (instruction count=26364): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/bdbc514e274d70e260620d9b7dcfc3ee4cf4eb321474dfbd1eb81d2f17cebc23
+2026-03-07 15:30:44,277 - INFO - SUCCESS (instruction count=16671): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/72239d0cba7a80895957b43d854680fb2fefbaa8b1f68b001ce5905c32ddcde1
+2026-03-07 15:31:07,330 - INFO - SUCCESS (instruction count=26550): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0056_PROMETHIUM/f81d16d98d7c5423e8f231fe47778b0824360fb41525fd545097bb8e700e1a8d
+2026-03-07 15:31:07,346 - INFO - ====================================================
+2026-03-07 15:31:07,346 - INFO - APT GROUP SUMMARY: G0056_PROMETHIUM
+2026-03-07 15:31:07,346 - INFO - ----------------------------------------------------
+2026-03-07 15:31:07,346 - INFO - Total       : 17
+2026-03-07 15:31:07,346 - INFO - Success     : 17
+2026-03-07 15:31:07,346 - INFO - Packed      : 0
+2026-03-07 15:31:07,346 - INFO - Obfuscated  : 0
+2026-03-07 15:31:07,346 - INFO - Failed      : 0
+2026-03-07 15:31:07,346 - INFO - Timeout     : 0
+2026-03-07 15:31:07,346 - INFO - Skipped     : 0
+2026-03-07 15:31:07,346 - INFO - ====================================================
+
+2026-03-07 15:34:42,565 - INFO - SUCCESS (instruction count=18906): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0008_Carbanak/face85f789faec82197703e296bd0c872f621902624b34c108f0460bc687ab70
+2026-03-07 15:34:54,418 - INFO - SUCCESS (instruction count=2407): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0008_Carbanak/3ed6749bba634ad0f5e888daf0323c85fe73f9cb8fc70c05fb42d53eb7a8b523
+2026-03-07 15:35:15,400 - INFO - SUCCESS (instruction count=29090): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0008_Carbanak/91d4ae2f55f71f13fea98d23c99a6e7110d5bff0217ea195df90d6f96c46c84b
+2026-03-07 15:35:36,943 - INFO - SUCCESS (instruction count=29090): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0008_Carbanak/59b9f82fd8e6f5aefbdd1c93d9e1d3012bbe843ddb958b1ca50c026b2217e25a
+2026-03-07 15:35:59,442 - INFO - SUCCESS (instruction count=29090): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0008_Carbanak/e381d8d00e2d9686c5e0144bfafec980c806210e11331a0a9616c48c66667f7c
+2026-03-07 15:38:26,044 - INFO - SUCCESS (instruction count=31910): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0008_Carbanak/390cffc97ad6982a3f7c7a1bbbc65bf2abf797267b134a58581b644cb5595f26
+2026-03-07 15:38:37,801 - INFO - SUCCESS (instruction count=409): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0008_Carbanak/191bda73661a99e7f2fbe746f4d6105076f1e5a690b124d5f381e218626ca1c2
+2026-03-07 15:38:37,813 - INFO - ====================================================
+2026-03-07 15:38:37,814 - INFO - APT GROUP SUMMARY: G0008_Carbanak
+2026-03-07 15:38:37,815 - INFO - ----------------------------------------------------
+2026-03-07 15:38:37,815 - INFO - Total       : 7
+2026-03-07 15:38:37,815 - INFO - Success     : 7
+2026-03-07 15:38:37,815 - INFO - Packed      : 0
+2026-03-07 15:38:37,815 - INFO - Obfuscated  : 0
+2026-03-07 15:38:37,815 - INFO - Failed      : 0
+2026-03-07 15:38:37,815 - INFO - Timeout     : 0
+2026-03-07 15:38:37,815 - INFO - Skipped     : 0
+2026-03-07 15:38:37,815 - INFO - ====================================================
+
+2026-03-07 15:41:04,753 - INFO - SUCCESS (instruction count=1378): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/f270202cd88b045630f6d2dec6d5823aa08aa66949b9ccd20f6e924c7992fea7
+2026-03-07 15:41:15,841 - INFO - SUCCESS (instruction count=1395): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/700b422556f070325b327325e31ddf597f98cc319f29ef8638c7b0508c632cee
+2026-03-07 15:42:49,885 - INFO - SUCCESS (instruction count=18809): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/cd6335101e0187c33a78a316885a2cbf4cbbd2a72daf64a086edb4a2615749fb
+2026-03-07 15:43:01,570 - INFO - SUCCESS (instruction count=421): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/3b83250383c2a892e0ca86e54fcc6aca9960fc4b425ab9853611ff3e5aa2f9c6
+2026-03-07 15:43:14,798 - INFO - SUCCESS (instruction count=3869): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/9a82e21c2463d6c23a48409a862e668ed9c205468d216d2280f7debe1ab1ddd8
+2026-03-07 15:43:27,704 - INFO - SUCCESS (instruction count=3869): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/9ed8f51548a004ac61b7176df12a0064dc3096088cbf3c644a9abdb5c92936f7
+2026-03-07 15:44:57,411 - INFO - SUCCESS (instruction count=18870): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/4e045c83cf429210e71e324adccad8818540b9805a44c8d79a8c16c3d5f6fbb6
+2026-03-07 15:45:12,751 - INFO - SUCCESS (instruction count=5707): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/50a2b6c1b0a0d308e8016aece9629c1bf6ca4ecc6f4cef34c904e9c3e82355fb
+2026-03-07 15:45:32,424 - INFO - SUCCESS (instruction count=23905): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/da3bb6e38b3f4d83e69d31783f00c10ce062abd008e81e983a9bd4317a9482aa
+2026-03-07 15:45:45,070 - INFO - SUCCESS (instruction count=3124): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/66a893728a0ac1a7fae39ee134ad4182d674e719219fbf5d9b7cd4fd4f07f535
+2026-03-07 15:45:56,514 - INFO - SUCCESS (instruction count=1378): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/0598e1af6466b0813030d44fa64616eea7f83957d70f2f48376202c3179bd6b1
+2026-03-07 15:46:09,267 - INFO - SUCCESS (instruction count=1663): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/db7364296cc8f78981797ffb2af7063bba97e2f6631c29215d59f4979f8b4fce
+2026-03-07 15:46:23,269 - INFO - SUCCESS (instruction count=3300): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/dc7cb53c5dc2e756822328a7144c29318cb871890727eff9c8da64a01e8e782d
+2026-03-07 15:47:36,575 - INFO - SUCCESS (instruction count=18849): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/46c95af6fea41b55fa0ab919ec81d38a584e32a519f85812fe79a5379457f111
+2026-03-07 15:47:49,822 - INFO - SUCCESS (instruction count=676): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/5671b3a89c0e88a9bfb0bd5bc434fa5245578becfdeb284f4796f65eecbd6f15
+2026-03-07 15:48:01,455 - INFO - SUCCESS (instruction count=1378): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/092c344330bd5cba71377dead11946f7277f2dd4af57f5b636b70b343bc7ebe0
+2026-03-07 15:49:17,872 - INFO - SUCCESS (instruction count=18848): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0038_Stealth Falcon/3259ecfb96d3d7e2d1a782b01073e02b3488a3922fd2fd35c20eeb5f44b292ec
+2026-03-07 15:49:17,914 - INFO - ====================================================
+2026-03-07 15:49:17,916 - INFO - APT GROUP SUMMARY: G0038_Stealth Falcon
+2026-03-07 15:49:17,916 - INFO - ----------------------------------------------------
+2026-03-07 15:49:17,916 - INFO - Total       : 17
+2026-03-07 15:49:17,916 - INFO - Success     : 17
+2026-03-07 15:49:17,916 - INFO - Packed      : 0
+2026-03-07 15:49:17,916 - INFO - Obfuscated  : 0
+2026-03-07 15:49:17,916 - INFO - Failed      : 0
+2026-03-07 15:49:17,916 - INFO - Timeout     : 0
+2026-03-07 15:49:17,916 - INFO - Skipped     : 0
+2026-03-07 15:49:17,916 - INFO - ====================================================
+2026-03-07 16:00:39,271 - INFO - SUCCESS (instruction count=22059): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/866f94f30d9865995494a0f7228329c26149eef2960500b2177c736c5c846035
+2026-03-07 16:00:54,514 - INFO - SUCCESS (instruction count=2388): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/24b7e7553b1aa241997e28775d3952c4cb885056c4606cbed9b450320b601255
+2026-03-07 16:01:16,609 - INFO - SUCCESS (instruction count=36547): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/9412a66bc81f51a1fa916ac47c77e02ac1a7c9dff543233ed70aa265ef6a1e76
+2026-03-07 16:01:34,532 - INFO - SUCCESS (instruction count=25971): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/7989032a5a2baece889100c4cfeca81f1da1241ab47365dad89107e417ce7bac
+2026-03-07 16:01:58,829 - INFO - SUCCESS (instruction count=35439): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/df4bbd02dcd8b8b9e1374c6f71f2e2da8518d39337b35983874266e8fff055e1
+2026-03-07 16:02:18,875 - INFO - SUCCESS (instruction count=15742): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/003315b0aea2fcb9f77d29223dd8947d0e6792b3a0227e054be8eb2a11f443d9
+2026-03-07 16:02:40,972 - INFO - SUCCESS (instruction count=44730): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/d799ab9b616be179f24dbe8af6ff76ff9e56874f298dab9096854ea228fc0aeb
+2026-03-07 16:02:58,003 - INFO - SUCCESS (instruction count=15488): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/441f2a6775621af8c5d1ead7082e9573ad878bc90675ed55f86abfc8a9e8cc6f
+2026-03-07 16:03:27,351 - INFO - SUCCESS (instruction count=50888): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/83d14ce2dcfc852791d20cd78066ba5a2b39eb503e12e33f2ef0b1a46c68de73
+2026-03-07 16:03:49,458 - INFO - SUCCESS (instruction count=20545): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/1e55abb94951cedc548fd8d67bd1b50476808f1d0ae72f9842181761ff92f83f
+2026-03-07 16:04:05,262 - INFO - SUCCESS (instruction count=9209): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/1b0eb1a1591140175d1ac111a98c89472b196599baf13ef67ee7f63d0052b00e
+2026-03-07 16:04:22,329 - INFO - SUCCESS (instruction count=9980): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0020_Equation/868eb363f32beacd8bcdc7a114e020d4cfe67913a15275f4e7493d87db643ff2
+2026-03-07 16:04:22,344 - INFO - ====================================================
+2026-03-07 16:04:22,345 - INFO - APT GROUP SUMMARY: G0020_Equation
+2026-03-07 16:04:22,345 - INFO - ----------------------------------------------------
+2026-03-07 16:04:22,345 - INFO - Total       : 12
+2026-03-07 16:04:22,345 - INFO - Success     : 12
+2026-03-07 16:04:22,345 - INFO - Packed      : 0
+2026-03-07 16:04:22,345 - INFO - Obfuscated  : 0
+2026-03-07 16:04:22,345 - INFO - Failed      : 0
+2026-03-07 16:04:22,345 - INFO - Timeout     : 0
+2026-03-07 16:04:22,345 - INFO - Skipped     : 0
+2026-03-07 16:04:22,345 - INFO - ====================================================
+
+2026-03-07 16:06:43,623 - INFO - SUCCESS (instruction count=9163): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0086_Stolen Pencil/89107e52073384d9a74fd21b261096061ca7c0dd2ea0919a2c419f15ff1e51ff
+2026-03-07 16:07:00,984 - INFO - SUCCESS (instruction count=10229): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0086_Stolen Pencil/bc9eb110ed343de33bc5a57ce3a7020f6b290214ef69a124bb86a6f05ca4b296
+2026-03-07 16:07:00,985 - INFO - ====================================================
+2026-03-07 16:07:00,985 - INFO - APT GROUP SUMMARY: G0086_Stolen Pencil
+2026-03-07 16:07:00,985 - INFO - ----------------------------------------------------
+2026-03-07 16:07:00,985 - INFO - Total       : 2
+2026-03-07 16:07:00,985 - INFO - Success     : 2
+2026-03-07 16:07:00,985 - INFO - Packed      : 0
+2026-03-07 16:07:00,985 - INFO - Obfuscated  : 0
+2026-03-07 16:07:00,985 - INFO - Failed      : 0
+2026-03-07 16:07:00,985 - INFO - Timeout     : 0
+2026-03-07 16:07:00,985 - INFO - Skipped     : 0
+2026-03-07 16:07:00,985 - INFO - ====================================================
+
+2026-03-07 16:08:39,445 - INFO - SUCCESS (instruction count=391): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/a66bfda3d877a216665ebeb4ee3ba5a96d0094fdfd62bc8fe449b326fefc66bf
+2026-03-07 16:08:58,050 - INFO - SUCCESS (instruction count=10950): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/7cc0bf547e78c8aaf408495ceef58fa706e6b5d44441fefdce09d9f06398c0ca
+2026-03-07 16:09:11,889 - INFO - SUCCESS (instruction count=1799): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/720195b07c81e95dab4a1469342bc723938733b3846d7647264f6d0816269380
+2026-03-07 16:09:24,786 - INFO - SUCCESS (instruction count=527): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/6b06522f803437d51c15832dbd6b91d8d8b244440b4d2f09bd952f335351b06d
+2026-03-07 16:09:37,134 - INFO - SUCCESS (instruction count=527): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/3782b63d7f6f688a5ccb1b72be89a6a98bb722218c9f22402709af97a41973c8
+2026-03-07 16:09:48,977 - INFO - SUCCESS (instruction count=527): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/c8f95bf8a76ff124cc1d7a8439beff360d0eb9c0972d42a8684c3bd4e91c6600
+2026-03-07 16:10:00,457 - INFO - SUCCESS (instruction count=392): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/a4736de88e9208eb81b52f29bab9e7f328b90a86512bd0baadf4c519e948e5ec
+2026-03-07 16:10:14,381 - INFO - SUCCESS (instruction count=1242): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/96c3404dadee72b1f27f6d4fbd567aac84d1fdf64a5168c7ef2464b6c4b86289
+2026-03-07 16:10:30,758 - INFO - SUCCESS (instruction count=12563): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/6c8c93069831a1b60279d2b316fd36bffa0d4c407068dbef81b8e2fe8fd8e8cd
+2026-03-07 16:10:42,347 - INFO - SUCCESS (instruction count=1238): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/8e63e579dded54f81ec50ef085929069d30a940ea4afd4f3bf77452f0546a3d3
+2026-03-07 16:10:53,791 - INFO - SUCCESS (instruction count=399): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0041_Strider/d737644d612e5051f66fb97a34ec592b3508be06e33f743a2fdb31cdf6bd2718
+2026-03-07 16:10:53,811 - INFO - ====================================================
+2026-03-07 16:10:53,812 - INFO - APT GROUP SUMMARY: G0041_Strider
+2026-03-07 16:10:53,812 - INFO - ----------------------------------------------------
+2026-03-07 16:10:53,812 - INFO - Total       : 11
+2026-03-07 16:10:53,812 - INFO - Success     : 11
+2026-03-07 16:10:53,812 - INFO - Packed      : 0
+2026-03-07 16:10:53,812 - INFO - Obfuscated  : 0
+2026-03-07 16:10:53,812 - INFO - Failed      : 0
+2026-03-07 16:10:53,812 - INFO - Timeout     : 0
+2026-03-07 16:10:53,812 - INFO - Skipped     : 0
+2026-03-07 16:10:53,812 - INFO - ====================================================
+
+2026-03-07 16:14:19,115 - INFO - SUCCESS (instruction count=372147): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/90ec29bafccc540dcb171a020e1216da2233b2ce8e9b5e4ff1f510e14f09f4b5
+2026-03-07 16:15:04,589 - INFO - SUCCESS (instruction count=327081): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/0329be10a5be4350e0d2c15ed265f0f32557d869ce32566a248d4ed3f9a20c16
+2026-03-07 16:15:37,316 - INFO - SUCCESS (instruction count=215066): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/3ca78cecb854ac65760f875c726a062c3dbfd9570adbaed473125c5c61c2ab21
+2026-03-07 16:16:52,271 - INFO - SUCCESS (instruction count=492752): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/f3e004f888becd03881cc3685aaf0963ea3cd9872af285849843cba7da732ca7
+2026-03-07 16:17:51,499 - INFO - SUCCESS (instruction count=372149): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/b0c0f38551a119d0b633c1b65e61b493574ed7083e3e003c83aa19dff7a0524b
+2026-03-07 16:19:04,854 - INFO - SUCCESS (instruction count=491193): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/New Folder/f1b33341b0dc25c84b92e6b3bc62125a216d62e746d06560a28f68deead406b9
+2026-03-07 16:19:37,756 - INFO - SUCCESS (instruction count=26160): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/fb94a5e30de7afd1d9072ccedd90a249374f687f16170e1986d6fd43c143fb3a
+2026-03-07 16:19:51,309 - INFO - SUCCESS (instruction count=392): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/e27467f7fdfa721e917384542ce10cc6108dfd78df14e23872cf8df916e0b8c6
+2026-03-07 16:20:26,979 - INFO - SUCCESS (instruction count=215066): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/bf0150e1e31f655978a74e126b973f2cbd6555e970130f8fafef25b884cfb442
+2026-03-07 16:21:15,714 - INFO - SUCCESS (instruction count=351090): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/fe1fb1eaf852085c0d1d9e87a49d04722da64c47f8cba75548002c44113c1a7e
+2026-03-07 16:22:03,482 - INFO - SUCCESS (instruction count=327081): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/75d9353c8fd8f0f88769bca71cf2eaaafee35f1f713ca28bd99c66546f056071
+2026-03-07 16:22:19,935 - INFO - SUCCESS (instruction count=1808): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/41d9b6d8cf0fff85bf35327d4b94db629cd9f754c487672911b7f701fe8c5539
+2026-03-07 16:23:07,712 - INFO - SUCCESS (instruction count=327094): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/cbcfcb8089eded5a9d4541a79e7fb1b099761602ab7f0be29fbc00faa30ce9b0
+2026-03-07 16:24:19,323 - INFO - SUCCESS (instruction count=492752): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/0374615eeca4eaa4a9d97c0de82b7e36b0c60cd40332b61c86fa0b29f7712115
+2026-03-07 16:24:58,903 - INFO - SUCCESS (instruction count=215066): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/aa2bbdde656674f2e62d41a3bae7597b2b5102982d97a0fd9410d9055f65e536
+2026-03-07 16:25:56,085 - INFO - SUCCESS (instruction count=372149): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/da56b0416b205b36337af22738967445ff310ca0f6051b243f00b83baa67aa09
+2026-03-07 16:26:28,748 - INFO - SUCCESS (instruction count=24584): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/4f06eaed3dd67ce31e7c8258741cf727964bd271c3590ded828ad7ba8d04ee57
+2026-03-07 16:27:20,354 - INFO - SUCCESS (instruction count=327092): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0067_APT37/d937ea795b97a6f6b99dad10b31557c54d91e95f13c851371796ff06ec65dda9
+2026-03-07 16:27:20,375 - INFO - ====================================================
+2026-03-07 16:27:20,376 - INFO - APT GROUP SUMMARY: G0067_APT37
+2026-03-07 16:27:20,376 - INFO - ----------------------------------------------------
+2026-03-07 16:27:20,376 - INFO - Total       : 18
+2026-03-07 16:27:20,376 - INFO - Success     : 18
+2026-03-07 16:27:20,376 - INFO - Packed      : 0
+2026-03-07 16:27:20,376 - INFO - Obfuscated  : 0
+2026-03-07 16:27:20,376 - INFO - Failed      : 0
+2026-03-07 16:27:20,376 - INFO - Timeout     : 0
+2026-03-07 16:27:20,376 - INFO - Skipped     : 0
+2026-03-07 16:27:20,376 - INFO - ====================================================
+2026-03-07 16:32:55,889 - INFO - SUCCESS (instruction count=16646): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/f78cabf7a0e7ed3ef2d1c976c1486281f56a6503354b87219b466f2f7a0b65c4
+2026-03-07 16:33:28,210 - INFO - SUCCESS (instruction count=41781): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/f32f6b229913d68daad937cc72a57aa45291a9d623109ed48938815aa7b6005c
+2026-03-07 16:34:23,044 - INFO - SUCCESS (instruction count=121232): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/846d8647d27a0d729df40b13a644f3bffdc95f6d0e600f2195c85628d59f1dc6
+2026-03-07 16:34:46,819 - INFO - SUCCESS (instruction count=14329): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/196fb1b6eff4e7a049cea323459cfd6c0e3900d8d69e1d80bffbaabd24c06eba
+2026-03-07 16:35:09,659 - INFO - SUCCESS (instruction count=14329): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/bffe910904efd1f69544daa9b72f2a70fb29f73c51070bde4ea563de862ce4b1
+2026-03-07 16:35:14,252 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/899e66ede95686a06394f707dd09b7c29af68f95d22136f0a023bfd01390ad53
+2026-03-07 16:35:37,889 - INFO - SUCCESS (instruction count=10526): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/d20959b615af699d8fff3f0087faade16ed4919355a458a32f5ae61badb5b0ca
+2026-03-07 16:36:04,020 - INFO - SUCCESS (instruction count=16617): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/f14c5bad5219b1ed5166eb02f5ff08a890a181cef2af565f3fe7bcea9c870e22
+2026-03-07 16:39:10,768 - ERROR - FAILED (Ghidra execution error): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/f6827dc5af661fbb4bf64bc625c78283ef836c6985bb2bfb836bd0c8d5397332
+2026-03-07 16:39:37,478 - INFO - SUCCESS (instruction count=16879): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0082_APT38/1f8dcfaebbcd7e71c2872e0ba2fc6db81d651cf654a21d33c78eae6662e62392
+2026-03-07 16:39:37,488 - INFO - ====================================================
+2026-03-07 16:39:37,489 - INFO - APT GROUP SUMMARY: G0082_APT38
+2026-03-07 16:39:37,489 - INFO - ----------------------------------------------------
+2026-03-07 16:39:37,489 - INFO - Total       : 10
+2026-03-07 16:39:37,489 - INFO - Success     : 8
+2026-03-07 16:39:37,489 - INFO - Packed      : 0
+2026-03-07 16:39:37,489 - INFO - Obfuscated  : 0
+2026-03-07 16:39:37,489 - INFO - Failed      : 1
+2026-03-07 16:39:37,489 - INFO - Timeout     : 0
+2026-03-07 16:39:37,489 - INFO - Skipped     : 1
+2026-03-07 16:39:37,489 - INFO - ====================================================
+2026-03-07 19:41:27,861 - INFO - SUCCESS (instruction count=401137): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/fee4f9dabc094df24d83ec1a8c4e4ff573e5d9973caa676f58086c99561382d7
+2026-03-07 19:44:25,718 - INFO - SUCCESS (instruction count=490777): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/492a643bd1efdaca4ca125ade1b606e7bbf00e995ac9115ac84d1c4c59cb66dd
+2026-03-07 19:44:50,527 - INFO - SUCCESS (instruction count=21960): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/63fb47c3b4693409ebadf8a5179141af5cf45a46d1e98e5f763ca0d7d64fb17c
+2026-03-07 19:45:11,635 - INFO - SUCCESS (instruction count=3598): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/c9a7b42c7b29ca948160f95f017e9e9ae781f3b981ecf6edbac943e52c63ffc8
+2026-03-07 19:45:29,911 - INFO - SUCCESS (instruction count=9565): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/af13b16416760782ec81d587736cb4c9b2e7099afc10cb764eeb4c922ee8802f
+2026-03-07 19:45:50,833 - INFO - SUCCESS (instruction count=4529): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/c7f4aa77be7f7afe9d0665d3e705dbf7794bc479bb9c44488c7bf4169f8d14fe
+2026-03-07 19:46:01,650 - INFO - SUCCESS (instruction count=196): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/7158099406d99db82b7dc9f6418c1189ee472ce3c25a3612a5ec5672ee282dc0
+2026-03-07 20:16:14,490 - INFO - SUCCESS (instruction count=393112): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/081804b491c70bfa63ecdbe9fd4618d3570706ad8b71dba13e234069648e5e48
+2026-03-07 20:16:32,934 - INFO - SUCCESS (instruction count=2453): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/0b5db31e47b0dccfdec46e74c0e70c6a1684768dbacc9eacbb4fd2ef851994c7
+2026-03-07 20:16:44,984 - INFO - SUCCESS (instruction count=664): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/c6a48365c3db9761bd60981bdcdd87aced23d8e60067caa30fee501bf4b47b84
+2026-03-07 20:16:57,232 - INFO - SUCCESS (instruction count=221): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/f1713afaf5958bdf3e975ebbab8245a98a84e03f8ce52175ef1568de208116e0
+2026-03-07 20:18:21,762 - INFO - SUCCESS (instruction count=439818): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/c83c7b000a955f2b8cb92bb112ed606ffd9fbebbe3422f80d90d06b167f2f37b
+2026-03-07 20:18:40,848 - INFO - SUCCESS (instruction count=2544): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/bce1eb513aaac344b5b8f7a9ba9c9e36fc89926d327ee5cc095fb4a895a12f80
+2026-03-07 20:18:57,699 - INFO - SUCCESS (instruction count=2533): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/cbf4cfa2d3c3fb04fe349161e051a8cf9b6a29f8af0c3d93db953e5b5dc39c86
+2026-03-07 20:24:03,732 - WARNING - POSSIBLE PACKED (low instruction count=1): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/85db55aab78103f7c2d536ce79e923c5fd9af14a2683f8bf290993828bddeb50
+2026-03-07 20:24:21,665 - INFO - SUCCESS (instruction count=2453): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/bfd74b4a1b413fa785a49ca4a9c0594441a3e01983fc7f86125376fdbd4acf6b
+2026-03-07 20:24:33,357 - INFO - SUCCESS (instruction count=160): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/15d53bb839e00405a34a8b690ec181f5555fc4f891b8248ae7fa72bad28315a9
+2026-03-07 20:28:32,597 - INFO - SUCCESS (instruction count=813456): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/db6a9934570fa98a93a979e7e0e218e0c9710e5a787b18c6948f2eedd9338984
+2026-03-07 20:29:01,614 - INFO - SUCCESS (instruction count=29146): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/d8565d58ad8e4f5558b5cd70df0ad12be9cf44e32ad07aaac6f65b816edbf414
+2026-03-07 20:30:51,858 - INFO - SUCCESS (instruction count=377972): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0094_kimsuky/973f7939ea03fd2c9663dafc21bb968f56ed1b9a56b0284acf73c3ee141c053c
+2026-03-07 20:30:51,893 - INFO - ====================================================
+2026-03-07 20:30:51,894 - INFO - APT GROUP SUMMARY: G0094_kimsuky
+2026-03-07 20:30:51,894 - INFO - ----------------------------------------------------
+2026-03-07 20:30:51,894 - INFO - Total       : 20
+2026-03-07 20:30:51,894 - INFO - Success     : 19
+2026-03-07 20:30:51,894 - INFO - Packed      : 1
+2026-03-07 20:30:51,894 - INFO - Obfuscated  : 0
+2026-03-07 20:30:51,894 - INFO - Failed      : 0
+2026-03-07 20:30:51,894 - INFO - Timeout     : 0
+2026-03-07 20:30:51,894 - INFO - Skipped     : 0
+2026-03-07 20:30:51,894 - INFO - ====================================================
+
+2026-03-07 20:34:12,337 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/ca9ab48d293cc84092e8db8f0ca99cb155b30c61d32a1da7cd3687de454fe86c
+2026-03-07 20:34:28,744 - INFO - SUCCESS (instruction count=9589): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/c365ddaa345cfcaff3d629505572a484cff5221933d68e4a52130b8bb7badaf9
+2026-03-07 20:34:47,494 - INFO - SUCCESS (instruction count=3609): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/3c4becde20e618efb209f97581e9ab6bf00cbd63f51f4ebd5677e352c57e992a
+2026-03-07 20:35:02,454 - INFO - SUCCESS (instruction count=9589): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/593bbcc8f34047da9960b8456094c0eaf69caaf16f1626b813484207df8bd8af
+2026-03-07 20:35:06,050 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/3a5ba44f140821849de2d82d5a137c3bb5a736130dddb86b296d94e6b421594c
+2026-03-07 20:35:23,407 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/b66db13d17ae8bcaf586180e3dcd1e2e0a084b6bc987ac829bbff18c3be7f8b4
+2026-03-07 20:35:39,122 - INFO - SUCCESS (instruction count=931): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/4a468603fdcb7a2eb5770705898cf9ef37aade532a7964642ecd705a74794b79
+2026-03-07 20:35:56,641 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/b47e281bfbeeb0758f8c625bed5c5a0d27ee8e0065ceeadd76b0010d226206f0
+2026-03-07 20:36:15,180 - INFO - SUCCESS (instruction count=9589): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/09a46b3e1be080745a6d8d88d6b5bd351b1c7586ae0dc94d0c238ee36421cafa
+2026-03-07 20:36:32,115 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/4186675cb6706f9d51167fb0f14cd3f8fcfb0065093f62b10a15f7d9a6c8d982
+2026-03-07 20:36:47,382 - INFO - SUCCESS (instruction count=4063): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/24ffa27530305fd318aad7613f28ca3eefc81ce57ebb4f59510ff6028058abb7
+2026-03-07 20:37:04,019 - INFO - SUCCESS (instruction count=9589): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/7c465ea7bcccf4f94147add808f24629644be11c0ba4823f16e8c19e0090f0ff
+2026-03-07 20:37:31,387 - INFO - SUCCESS (instruction count=23092): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/b9c5d4339809e0ad9a00d4d3dd26fdf44a32819a54abf846bb9b560d81391c25
+2026-03-07 20:37:49,029 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c
+2026-03-07 20:38:05,164 - INFO - SUCCESS (instruction count=9589): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/d8a9879a99ac7b12e63e6bcae7f965fbf1b63d892a8649ab1d6b08ce711f7127
+2026-03-07 20:38:09,052 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/10ac312c8dd02e417dd24d53c99525c29d74dcbc84730351ad7a4e0a4b1a0eba
+2026-03-07 20:38:26,059 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/9b60c622546dc45cca64df935b71c26dcf4886d6fa811944dbc4e23db9335640
+2026-03-07 20:38:43,419 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/e14f1a655d54254d06d51cd23a2fa57b6ffdf371cf6b828ee483b1b1d6d21079
+2026-03-07 20:38:59,577 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/11d0f63c06263f50b972287b4bbd1abe0089bc993f73d75768b6b41e3d6f6d49
+2026-03-07 20:39:16,357 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/5ad4efd90dcde01d26cc6f32f7ce3ce0b4d4951d4b94a19aa097341aff2acaec
+2026-03-07 20:39:33,042 - INFO - SUCCESS (instruction count=9589): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/2584e1521065e45ec3c17767c065429038fc6291c091097ea8b22c8a502c41dd
+2026-03-07 20:39:49,351 - INFO - SUCCESS (instruction count=9589): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
+2026-03-07 20:57:18,788 - INFO - SUCCESS (instruction count=648982): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/bd2aa5805b76f272b43a595b3d73e29d0fc4647e15e87950b8f904ea26dcf053
+2026-03-07 20:57:36,498 - INFO - SUCCESS (instruction count=7861): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/e8450dd6f908b23c9cbd6011fe3d940b24c0420a208d6924e2d920f92c894a96
+2026-03-07 20:57:40,084 - WARNING - SKIPPED OR UNSUPPORTED FORMAT: /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/d465637518024262c063f4a82d799a4e40ff3381014972f24ea18bc23c3b27ee
+2026-03-07 20:57:51,792 - INFO - SUCCESS (instruction count=580): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/2ca2d550e603d74dedda03156023135b38da3630cb014e3d00b1263358c5f00d
+2026-03-07 20:58:24,172 - INFO - SUCCESS (instruction count=40587): /home/kali/Desktop/CIS 6530 - Threat Intel Assignments/Assignment 2/CIS6530/Submission 2/Executable Malware/G0032_Lazarus Group/a75886b016d84c3eaacaf01a3c61e04953a7a3adf38acf77a4a2e3a8f544f855
+2026-03-07 20:58:24,198 - INFO - ====================================================
+2026-03-07 20:58:24,200 - INFO - APT GROUP SUMMARY: G0032_Lazarus Group
+2026-03-07 20:58:24,200 - INFO - ----------------------------------------------------
+2026-03-07 20:58:24,200 - INFO - Total       : 27
+2026-03-07 20:58:24,200 - INFO - Success     : 23
+2026-03-07 20:58:24,200 - INFO - Packed      : 0
+2026-03-07 20:58:24,200 - INFO - Obfuscated  : 0
+2026-03-07 20:58:24,200 - INFO - Failed      : 0
+2026-03-07 20:58:24,200 - INFO - Timeout     : 0
+2026-03-07 20:58:24,200 - INFO - Skipped     : 4
+2026-03-07 20:58:24,200 - INFO - ====================================================
+
