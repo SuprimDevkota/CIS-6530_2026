@@ -30,7 +30,7 @@ source venv/bin/activate    # for macOS/Linux
 Install all required packages listed in requirements.txt:
 
 ```bash
-pip install -r src/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 6. Run the Project
